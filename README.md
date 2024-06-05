@@ -1,4 +1,4 @@
-# rgb-projekt
+# rgb-projekt (postup v README)
 
 Tento projekt umožňuje zadat intenzitu RGB ledky ovladačem
 
